@@ -13,5 +13,5 @@ Default RPC Port = 15579
 
 Default P2P Port = 15578
 
-Public Key = 0
+
 
