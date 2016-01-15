@@ -3,7 +3,7 @@ JiffyCoin [JIF]
 
 SHA256D Proof of Work based on Bitcoin 0.8.99
 
-21,000,000 Total Coins
+5,420,000 Total Coins
 
 50 coins per block; halving every 50000 blocks
 
